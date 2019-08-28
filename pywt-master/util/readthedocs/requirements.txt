@@ -1,0 +1,6 @@
+numpy
+cython
+pytest
+wheel
+numpydoc
+matplotlib
